@@ -1,1 +1,1 @@
-export const domain = "https://endzonebuzz.live/";
+export const domain = "https://ezbuzz.feji.io/";
