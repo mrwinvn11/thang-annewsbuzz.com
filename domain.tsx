@@ -1,1 +1,1 @@
-export const domain = "https://binzz.xinloc.com/";
+export const domain = "https://nccnews.cafex.biz/";
